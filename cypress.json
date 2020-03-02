@@ -1,0 +1,8 @@
+{
+    "chromeWebSecurity": false,
+    "trashAssetsBeforeRuns": true,
+    "video": true,
+    "baseUrl": "https://syscor-sandbox.before.com.br/_sys/",
+    "viewportWidth": 1200,
+    "viewportHeight": 900
+  }
